@@ -30,8 +30,8 @@ of your implementation:
 
 * The `MadLibs` program must:
   * Contain at least four single-line comments and two multi-line comments
-  * Read in multiple numbers and words from the terminal
-  * Display those numbers and words in the form of a fun story
+  * Read in multiple numbers and words from the terminal, including at least 4 `String` and 2 `int` data types, and 6 `Scanner` methods
+  * Display those numbers and words in the form of a fun story using at least 3 print statements
 
 When you use the `git commit` command to transfer your source code to your
 GitHub repository, [Travis CI](https://travis-ci.com/) will initialize a build

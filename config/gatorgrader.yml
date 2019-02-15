@@ -13,6 +13,6 @@ src/main:
             --fragment "int" --count 2
             --fragment "next" --count 6
             --fragment "System.out.print" --count 3
---commits 3
+--commits 5
 
 #--command "gradle -q --console plain run" --executes
